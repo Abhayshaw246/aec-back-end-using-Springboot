@@ -33,32 +33,3 @@
     </div>
 </body>
 </html>
-<!--<html>
-	<head>Spring Boot Insert Page</head>
-	<body bgcolor="Orange">
-		<form method="post" action="insert-emp-data">
-			<table>
-				<tr>
-					<th>EmpID</th>
-					<td><input type="text" name="EmpID"/></td>
-				</tr>
-				<tr>
-					<th>EmpName</th>
-					<td><input type="text" name = "EmpName"/></td>
-				</tr>
-				<tr>
-					<th>EmpCity</th>
-					<td><input type="text" name = "EmpCity"/></td>
-				</tr>
-				<tr>
-					<th>EmpAddress</th>
-					<td><input type="text" name = "EmpAddress"/></td>
-				</tr>
-				<tr>
-					<td><input type="submit" name = "Submit"/></td>
-					<td><input type="reset" name = "Reset"/></td>
-				</tr>
-			</table>
-		</form>
-	</body>
-</html> -->
