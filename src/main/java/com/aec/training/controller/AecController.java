@@ -48,6 +48,8 @@ public class AecController {
 		employee.setEmpName(empName);
 		employee.setEmpCity(empCity);
 		employee.setEmpAddress(empAddress);*/
+
+		
 		employeeDTO.setEmpId(Integer.parseInt(empId));
 		employeeDTO.setEmpName(empName);
 		employeeDTO.setEmpCity(empCity);
